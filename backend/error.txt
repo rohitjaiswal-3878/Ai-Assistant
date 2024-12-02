@@ -1,0 +1,13 @@
+
+
+ /api/chat - POST - 2024-12-01T05:14:22.528Z 
+ Error: Connection to GPT failed!
+    at connectGPT (/home/rohit/Desktop/Rohit/Assignments/growwth/backend/services/chatgpt.js:32:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /home/rohit/Desktop/Rohit/Assignments/growwth/backend/routes/chat.js:27:22 
+
+ /api/chat - POST - 2024-12-01T05:19:44.905Z 
+ Error: Connection to GPT failed!
+    at connectGPT (/home/rohit/Desktop/Rohit/Assignments/growwth/backend/services/chatgpt.js:33:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /home/rohit/Desktop/Rohit/Assignments/growwth/backend/routes/chat.js:27:22 
